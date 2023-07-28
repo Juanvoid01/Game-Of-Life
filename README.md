@@ -24,11 +24,11 @@ Possibility to change the laws of the game to other variants.
 
 * Game
 
-<img src="https://github.com/Juanvoid01/Game-Of-Life/photos/game.png" > <br>
+<img src="https://github.com/Juanvoid01/Game-Of-Life/blob/main/photos/game.png" > <br>
 
 * Rules Changer
 
-<img src="https://github.com/Juanvoid01/Game-Of-Life/photos/rulesChanger.png" > <br>
+<img src="https://github.com/Juanvoid01/Game-Of-Life/blob/main/photos/rulesChanger.png" > <br>
 ### How to use it
 
 Download Java.
