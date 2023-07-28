@@ -5,8 +5,8 @@ Implementation of Conway's Game of Life with a toroidal array.
 
 ### Table of Contents
 - [Introduction](#introduction)
-- [What I learnt](#introduction)
-- [Implementation](#PathFinding)
+- [What I learnt](#what-i-learnt)
+- [Implementation](#implementation)
 - [How to use it](#how-to-use-it)
 - [References](#references)
 
