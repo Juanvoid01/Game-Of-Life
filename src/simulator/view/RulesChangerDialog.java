@@ -126,10 +126,10 @@ private static final long serialVersionUID = 1L;
 		
 		
 		JPanel selectores = new JPanel(new FlowLayout());
-		selectores.add(new JLabel("Force Law: "));
+		selectores.add(new JLabel("Survival rule: "));
 		CBsurvivalRules.setBackground(Color.WHITE);
 		selectores.add(CBsurvivalRules);
-		selectores.add(new JLabel("Group: "));
+		selectores.add(new JLabel("Reproduction rule: "));
 		CBreproductionRules.setBackground(Color.WHITE);
 		selectores.add(CBreproductionRules);
 		
